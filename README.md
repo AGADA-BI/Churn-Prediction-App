@@ -170,14 +170,3 @@ To retrain the model with new data:
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Support
-
-For questions or issues, please:
-1. Check the documentation
-2. Review existing issues
-3. Create a new issue with detailed information
-
----
-
-**Note**: This project is for educational and demonstration purposes. For production use, consider additional validation, monitoring, and security measures.
