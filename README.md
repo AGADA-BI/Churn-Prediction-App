@@ -30,7 +30,7 @@ Customer churn prediction is a critical business metric that helps companies ide
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/AGADA-BI/Churn-Prediction-App>
 cd customer-churn-prediction
 ```
 
